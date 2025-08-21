@@ -1,4 +1,3 @@
-from . import ocr
 from . import rotate   
 
-__all__ = ["ocr", "rotate"]  
+__all__ = [ "rotate"]  

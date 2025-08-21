@@ -1,0 +1,3 @@
+template/*.jpg
+controller/__pycache__/
+./.gitignore
